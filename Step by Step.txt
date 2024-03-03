@@ -1,0 +1,13 @@
+instalei o phaser pelo jeito npm
+  npm install phaser@v3.80.1
+
+  npm install node
+
+  npm install --global http-server - isto n fez abrir automaticamente um site
+
+  //apertei no botão line 
+
+  npx http-server
+
+
+
