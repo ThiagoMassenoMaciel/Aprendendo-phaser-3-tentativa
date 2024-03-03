@@ -6,9 +6,11 @@ instalei o phaser pelo jeito npm
   npm install --global http-server - isto n fez abrir automaticamente um site
 
   //apertei no botão line 
-  
+
 // usar este comando toda vez que quizer executar o servidor web https://www.npmjs.com/package/http-server
   npx http-server                  
 
 
+Set up webroot - o local para onde o servidor web esta olhando e poe isso no localhost no meu caso é o link  http://192.168.0.117:8080
 
+  add file index.html and copy from DOCUMENTACION PHASER
