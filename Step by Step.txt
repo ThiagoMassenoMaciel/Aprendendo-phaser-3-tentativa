@@ -6,8 +6,9 @@ instalei o phaser pelo jeito npm
   npm install --global http-server - isto n fez abrir automaticamente um site
 
   //apertei no botão line 
-
-  npx http-server
+  
+// usar este comando toda vez que quizer executar o servidor web https://www.npmjs.com/package/http-server
+  npx http-server                  
 
 
 
